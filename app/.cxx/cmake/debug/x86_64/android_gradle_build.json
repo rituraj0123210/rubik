@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\Rituraj Yadav\\Desktop\\rubik\\Rubik-s-cube-solver-master\\Rubik-s-cube-solver-master\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Rituraj Yadav\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Rituraj Yadav\\Desktop\\rubik\\Rubik-s-cube-solver-master\\Rubik-s-cube-solver-master\\app\\.cxx\\cmake\\debug\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Rituraj Yadav\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Rituraj Yadav\\Desktop\\rubik\\Rubik-s-cube-solver-master\\Rubik-s-cube-solver-master\\app\\.cxx\\cmake\\debug\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "dummy-lib-Debug-x86_64": {
+      "buildCommandComponents": [
+        "C:\\Users\\Rituraj Yadav\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\Rituraj Yadav\\Desktop\\rubik\\Rubik-s-cube-solver-master\\Rubik-s-cube-solver-master\\app\\.cxx\\cmake\\debug\\x86_64",
+        "dummy-lib"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "dummy-lib",
+      "output": "C:\\Users\\Rituraj Yadav\\Desktop\\rubik\\Rubik-s-cube-solver-master\\Rubik-s-cube-solver-master\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libdummy-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

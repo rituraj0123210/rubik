@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rubiks Cube Solver 3x3</string>
+    <string name="scan_cube">Scan cube</string>
+</resources>

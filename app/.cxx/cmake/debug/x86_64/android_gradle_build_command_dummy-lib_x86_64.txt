@@ -1,0 +1,7 @@
+Executable : C:\Users\Rituraj Yadav\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Rituraj Yadav\Desktop\rubik\Rubik-s-cube-solver-master\Rubik-s-cube-solver-master\app\.cxx\cmake\debug\x86_64
+dummy-lib
+jvmArgs : 
+

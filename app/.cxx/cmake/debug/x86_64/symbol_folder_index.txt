@@ -1,0 +1,1 @@
+C:\Users\Rituraj Yadav\Desktop\rubik\Rubik-s-cube-solver-master\Rubik-s-cube-solver-master\app\build\intermediates\cmake\debug\obj\x86_64

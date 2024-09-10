@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Rituraj Yadav/Desktop/rubik/Rubik-s-cube-solver-master/Rubik-s-cube-solver-master/app/.cxx/Debug/4y6v1h1t/armeabi-v7a",
+  "command": "C:\\Users\\RITURA~1\\AppData\\Local\\Android\\Sdk\\ndk\\231~1.777\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\CLANG_~1.EXE --target=armv7-none-linux-androideabi16 --gcc-toolchain=\"C:/Users/Rituraj Yadav/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"C:/Users/Rituraj Yadav/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot\"  -Ddummy_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\dummy-lib.dir\\dummy-lib.cpp.o -c \"C:\\Users\\Rituraj Yadav\\Desktop\\rubik\\Rubik-s-cube-solver-master\\Rubik-s-cube-solver-master\\app\\src\\main\\cpp\\dummy-lib.cpp\"",
+  "file": "C:\\Users\\Rituraj Yadav\\Desktop\\rubik\\Rubik-s-cube-solver-master\\Rubik-s-cube-solver-master\\app\\src\\main\\cpp\\dummy-lib.cpp"
+}
+]

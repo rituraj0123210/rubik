@@ -1,0 +1,3 @@
+C:/Users/Rituraj Yadav/Desktop/rubik/Rubik-s-cube-solver-master/Rubik-s-cube-solver-master/app/.cxx/Debug/4y6v1h1t/x86_64/CMakeFiles/dummy-lib.dir
+C:/Users/Rituraj Yadav/Desktop/rubik/Rubik-s-cube-solver-master/Rubik-s-cube-solver-master/app/.cxx/Debug/4y6v1h1t/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Rituraj Yadav/Desktop/rubik/Rubik-s-cube-solver-master/Rubik-s-cube-solver-master/app/.cxx/Debug/4y6v1h1t/x86_64/CMakeFiles/rebuild_cache.dir
